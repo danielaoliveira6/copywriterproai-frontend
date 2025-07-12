@@ -34,7 +34,12 @@
 </div>
 <hr>
 
-Welcome to CopywriterProAI, the world's first open-source AI writing platform for SEO and Ad Copy. CopywriterProAI helps you create great content in a snap. It’s like having your very own AI writing assistant online, always ready to lend a helping hand.
+Welcome to CopywriterProAI
+
+Imagine having an AI writing assistant by your side, ready to help you create incredible content and provide valuable tips in seconds. Whether it’s for blogs, ads, or campaigns, CopywriterProAI transforms your ideas into powerful texts optimized to attract and convert.
+
+Free to access and always available, our project is your ultimate tool for writing with creativity and efficiency. Join us and revolutionize the way you create content.
+
 
 ## ⚡ Getting Started
 
